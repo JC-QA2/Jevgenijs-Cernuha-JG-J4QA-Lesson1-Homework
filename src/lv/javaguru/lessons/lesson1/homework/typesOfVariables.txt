@@ -1,0 +1,27 @@
+1. short
+
+2. long
+
+3. long
+
+4. long
+
+5. double
+
+6. short
+
+7. long
+
+8. long
+
+9. double
+
+10. long
+
+11. long
+
+12. long
+
+13. double
+
+14. byte
