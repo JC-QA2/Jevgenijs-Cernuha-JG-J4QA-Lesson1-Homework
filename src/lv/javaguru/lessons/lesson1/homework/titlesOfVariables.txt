@@ -1,0 +1,37 @@
+1. amountOfShipsInPort
+
+2. wholeNumbersCounter
+
+3. firstNumber
+
+4. answerToQuestion
+
+5. randomNumber
+
+6. randomNumberGenerator
+
+7. carColour
+
+8. carSpeed
+
+9. userEnteredNumber
+
+10. highestNumber
+
+11. lowestNumber
+
+12. leftBoarderOfRangeNumber
+
+13. rightBoarderOfRangeNumber
+
+14. userDefinedNumber
+
+15. possibleAnswer
+
+16. bankAccount
+
+17. moneyAmountOnAccount
+
+18. bankCard
+
+19. bycicleNumberOfWheels
